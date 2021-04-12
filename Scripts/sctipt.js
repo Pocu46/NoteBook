@@ -15,6 +15,10 @@ let notes = [
 		id: 4,
 		text: "I think JS is better than other languages"
 	},
+	{
+		id: 5,
+		text: "Love JS"
+	},
 ]
 
 function addText(arr) {
